@@ -1,4 +1,4 @@
-# Plant Nutrition Prediction with Supervised Machine Learning
+# Sales Forecasting Kalbe's Product with ARIMA & Holt Winter Time Series
 
 Project ini memiliki tujuan untuk membuat model *sales forecast* untuk Category A, Category B, Product A1, Product A2, Product B1 & Product B2
 
