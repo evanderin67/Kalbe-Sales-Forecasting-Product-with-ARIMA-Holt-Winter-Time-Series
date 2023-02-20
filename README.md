@@ -14,6 +14,7 @@ Repository ini terdiri dari beberapa file yaitu :
 # Summary singkat Project
 
 Alur dari *project* ini adalah yang pertama EDA (*Exploratory Data Analysis*) untuk mengetahui gambaran dasar dari *dataset*. Kemudian dilakukan *cleaning* dan *preprocessing* terhadap *dataset*. Kemudian saya melakukan *modeling* dengan rincian sebagai berikut :
+
     - Kategori A : ARIMA (`MAE` 3.69)
     - Kategori B : ARIMA (`MAE` 194.48)
     - Produk A1 : ARIMA (`MAE` 7.4)
